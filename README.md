@@ -1,0 +1,1 @@
+# Detection-and-Visualization-of-Earthquake-data
